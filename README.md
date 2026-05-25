@@ -1,4 +1,4 @@
-# ChemSystem — Plataforma Fullstack
+# ChemSystem — Simulador
 
 Plataforma educativa SaaS de química con laboratorio virtual, simuladores de catálisis y predicción IA.
 
